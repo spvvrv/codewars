@@ -3,7 +3,5 @@
 // All non-vowels including non alpha characters (spaces,commas etc.) should be included.
 
 function vowelOne(s){
-    
-  }
-
-  vowelOne( "vowelOne" )
+  return s.split('').map(x => ('aeiouAEIOU'.includes(x)) ? 1 : 0).join('');
+}чч

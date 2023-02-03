@@ -2,6 +2,8 @@
 
 [My Codewars profile](https://www.codewars.com/users/rsschool_4662c637f73a0285)
 
+![codewars](https://www.codewars.com/users/rsschool_4662c637f73a0285/badges/large)
+
 ## Why?
 This repository was created to track my progress in learning logic and algorithms.
 
